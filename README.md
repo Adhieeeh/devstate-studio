@@ -7,6 +7,7 @@ DevState is a reactive visual finite state machine architect engineered with Vue
 ------------------------------------------------------------------------------------------
 ![](devs.png)
 
+
 ##  Key Architecture Concepts
 *  **Vue 3 Reactivity Engine:** Uses Vue's reactive `ref` and `computed` primitives to calculate valid transition triggers on the fly based on active state pointers.
 *  **Vector Coordinate Math:** Dynamically calculates center-point SVG line connectors (`x1, y1` to `x2, y2`) between reactive node coordinates.
