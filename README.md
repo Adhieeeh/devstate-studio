@@ -19,3 +19,5 @@ DevState is a reactive visual finite state machine architect engineered with Vue
 
 1. Install dependencies: `npm install`
 2. Launch dev workspace: `npm run dev`
+
+-------------------------------------------------------------------------------------------
