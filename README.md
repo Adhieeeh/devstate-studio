@@ -1,4 +1,4 @@
-# ⚙️ DevState — Visual Finite State Machine (FSM) Automata Architect (Vue 3)
+# ⚙️ DevState — Visual Finite State Machine  Automata Architect (Vue 3)
 
 DevState is a reactive visual finite state machine architect engineered with Vue 3 (Composition API `<script setup>`). It implements a state machine evaluation engine that maps node coordinates onto dynamic vector canvas maps (`<svg>`), processes state transitions deterministically, and compiles visual workflows into production-ready JSON schemas.
 
