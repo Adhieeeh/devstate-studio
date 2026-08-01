@@ -15,5 +15,7 @@ DevState is a reactive visual finite state machine architect engineered with Vue
 *  **Vector Coordinate Math:** Dynamically calculates center-point SVG line connectors (`x1, y1` to `x2, y2`) between reactive node coordinates.
 
 ##  Running Instructions
+
+
 1. Install dependencies: `npm install`
 2. Launch dev workspace: `npm run dev`
